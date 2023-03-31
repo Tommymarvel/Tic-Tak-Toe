@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
   background-color: #192a32;
-  overflow: hidden;
 }
 
 h1 {
@@ -22,7 +21,7 @@ h1 {
     /* use calc to subtract half of the div's width from the left margin */
     margin-left: calc(50% - 260px);
     margin-top: 3%;
-    height: 100vh;
+    height: 110vh;
   }
 
   .row {
