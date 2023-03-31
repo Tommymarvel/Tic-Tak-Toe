@@ -1,4 +1,4 @@
-## Copyright 2021, [YOUR NAME]
+## Copyright 2021, Marvellous Ibironke
 
 ###### Please delete this line and the next one
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
